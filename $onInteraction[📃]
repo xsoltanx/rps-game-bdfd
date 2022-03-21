@@ -1,0 +1,13 @@
+TRIGGER : $onInteraction[📃]
+
+CODE : 
+
+==================================================
+
+$nomention
+$onlyIf[$getVar[blacklisted;$authorID]==false;You are blacklisted!]
+$title[📃RPS✂️GAME🗿]
+$description[
+**You select 📃 I select $randomText[📃 Equal;🗿 You win;✂️I win]**]
+$color[$random[000000;999999]]
+$footer[™E V I L]
