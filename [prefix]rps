@@ -1,0 +1,18 @@
+
+TRIGGER : [prefix]rps
+
+
+CODE :
+
+========================================
+
+$nomention
+$title[📃RPS✂️GAME🗿]
+$description[
+**Pls select one of the following:**
+**🗿 → ROCK 📃 → papel ✂️ → scissor**]
+$footer[™E V I L]
+$color[$random[000000;999999]]
+$addButton[no;🗿;🗿;success;no;]
+$addButton[no;📃;📃;success;no;]
+$addButton[no;✂️;✂️;success;no;]
