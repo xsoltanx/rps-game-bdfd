@@ -5,7 +5,6 @@ CODE :
 =====================================================================
 
 $nomention
-$onlyIf[$getVar[blacklisted;$authorID]==false;You are blacklisted!]
 $title[📃RPS✂️GAME🗿]
 $description[
 **You select 🗿 I select $randomText[🗿 Equal;✂️ You win;📃I win]**]
